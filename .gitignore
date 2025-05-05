@@ -1,0 +1,9 @@
+/car_sim_env/
+/venv/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pywz
